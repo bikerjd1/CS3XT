@@ -1,8 +1,9 @@
 {
-  "extensions": [
+  "plugins": [
     {
-      "name": "Monoschinos",
-      "url": "https://raw.githubusercontent.com/bikerjd1/CS3XT/blob/main/MonoschinosProvider-release.aar"
+      "name": "MonosChinos",
+      "jarUrl": "https://github.com/bikerjd1/CS3XT/raw/main/aars/MonoschinosProvider-release.aar",
+      "version": 1
     }
   ]
 }
