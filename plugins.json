@@ -3,7 +3,7 @@
     {
       "name": "MonosChinos",
       "jarUrl": "https://github.com/bikerjd1/CS3XT/releases/download/v1.0/MonoschinosProvider-release.aar",
-      "version": 9,  // ¡DEBE coincidir con tu version = 9!
+      "version": 9,
       "requiresResources": false,
       "tvTypes": ["Anime"]
     }
