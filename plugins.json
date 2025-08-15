@@ -1,9 +1,8 @@
-[
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animeflv.net&sz=%size%",
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=monoschinos2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Stormunblessed/storm-ext",
-        "fileSize": 17846,
+        "fileSize": 16675,
         "status": 1,
         "language": "es",
         "authors": [
@@ -13,27 +12,8 @@
             "Anime",
             "OVA"
         ],
-        "version": 5,
-        "internalName": "AnimeflvProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/storm-ext/builds/AnimeflvProvider.cs3",
-        "name": "AnimeflvProvider"
+        "version": 6,
+        "internalName": "MonoschinosProvider",
+        "url": "https://github.com/bikerjd1/CS3XT/raw/main/releases/download/v1.0/MonoschinosProvider.cs3",
+        "name": "MonoschinosProvider"
     },
-  {
-    "iconUrl": "https://monoschino2.com/public/img/logo6.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/bikerjd1/CS3XT",
-    "fileSize": <Tamaño de tu archivo .cs3 en bytes>,
-    "status": 1,
-    "language": "es",
-    "authors": [
-      "bikerjd1"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 1,
-    "internalName": "Monoschinos",
-    "url": "https://github.com/bikerjd1/CS3XT/raw/main/releases/download/v1.0/Monoschinos.cs3",
-    "name": "Monoschinos"
-  }
-]
