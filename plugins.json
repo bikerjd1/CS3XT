@@ -19,22 +19,22 @@
         "name": "MonoschinosProvider"
     },
     {
-        "iconUrl": "https://play-lh.googleusercontent.com/168BCTvT0IW4VEawiavIeqiqZUb8RJ4SnYI0q-JzgSqt9ILLXdA9inTVWmhzltJwug",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelispedia.is&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Stormunblessed/storm-ext",
-        "fileSize": 16070,
+        "fileSize": 14049,
         "status": 1,
         "language": "es",
         "authors": [
             "Stormunblessed"
         ],
         "tvTypes": [
-            "Anime",
-            "OVA"
+            "TvSeries",
+            "Movie"
         ],
-        "version": 3,
-        "internalName": "AnimeAV1Provider",
-        "url": "https://github.com/bikerjd1/CS3XT/raw/main/releases/download/animeav1provider.cs3",
-        "name": "AnimeAV1Provider"
-    }
+        "version": 5,
+        "internalName": "PelispediaProvider",
+        "url": "https://github.com/bikerjd1/CS3XT/raw/main/releases/download/pelispediaprovider.cs3",
+        "name": "PelispediaProvider"
+    },
 ]
